@@ -29,6 +29,28 @@ npm install -> Goes to the Package.json file which contains all the required pac
 You'll know the install is complete/done when you see a node_modules folder in your working directory
 
 npm start
+
+```
+
+**installing nvm**
+```
+
+It is easier to use nvm for node installation. It allows you to quickly install and use different versions of node via the command line
+
+It is available on [Linux/Mac](https://github.com/nvm-sh/nvm) and [Windows](https://github.com/coreybutler/nvm-windows)
+
+You can find the setup file in the releases section and install it
+
+To install node v14 you just need to execute 2 comands
+
+nvm install 14
+nvm use 14
+```
+
+***nvm basics**
+```
+nvm list - show list of all downloaded versions of node
+nvm uninstall v14.16.1 -uninstalls specific version
 ```
 
 
