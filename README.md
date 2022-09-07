@@ -53,4 +53,11 @@ nvm list - show list of all downloaded versions of node
 nvm uninstall v14.16.1 -uninstalls specific version
 ```
 
+***How React Works**
+```
+React allows you to create re-usable and reactive components consisting of HTML & CSS and JavaScript
+
+Why Components? Reusability and Separation of concerns
+```
+
 
